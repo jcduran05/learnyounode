@@ -1,0 +1,4 @@
+hello
+this is a test
+adding new lines
+should be 4
